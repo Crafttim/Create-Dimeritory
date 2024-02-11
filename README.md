@@ -1,14 +1,17 @@
-# Create: D
-The Pack: Includes almost all Create Forge addons, additionaly it has some other mods for the D.
+# Create: Dimeritory 
+The Pack: Includes almost all Create Forge addons, additionaly it has some other mods for better playstyle.
 
-The Quests: For Beginners/People who suddenly dont know what to do next, which means they are very detailed and have great explanations on how to find/automate all mods/important blocks in the pack.
+~~The Quests: For Beginners/People who suddenly dont know what to do next, which means they are very detailed and have great explanations on how to find/automate all mods/important blocks in the pack.~~
 
 
 
-The Idea: I created modpacks for myself which have many create addons, I just almost always spend more time tinkering on the Pack then playing it. The problem I had was that after a certain automation stage i just did not know what to do next or thought my modpack is missing some mods to be perfect.
+The Idea: I created modpacks for myself with many create addons inside, I just almost always spend more time tinkering on the Pack then playing it. The problem I had was after a certain automation in the game I just did not know what to do next or thought my modpack is missing some mods to be "perfect".
 
-Time spent: For initial releas [15h] / For pack updates [0h]
-
+Time spent: For initial release [18h] / For pack updates [0h]
+<details>
+    <summary>Name explanation</summary>
+    ChatGPT: In chemistry, a dimer is a molecule formed by the combination of two smaller molecules. So, "dimeritory" could imply a place or repository where combinations and interactions occur, perhaps suggesting a modpack in Minecraft that focuses on the fusion of different elements or mechanics within the game.
+</details>
 <details>
 <summary>Modlist:</summary>
 <a href="https://modrinth.com/mod/jv0UKGOX">Create: Big Contraptions</a> by (MuriPlz)<br>
@@ -134,4 +137,6 @@ Time spent: For initial releas [15h] / For pack updates [0h]
 <a href="https://modrinth.com/mod/aq9qUUQG">Create Stuff & Additions</a> by (Furti_Two)<br>
 <a href="https://modrinth.com/mod/6e2SlzR4">Create: Garnished</a> by (DakotaPride)<br>
 </details>
+
+
 
