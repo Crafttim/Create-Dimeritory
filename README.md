@@ -1,11 +1,11 @@
-# Create: Dimeritory 
-The Pack: Includes almost all Create Forge addons, additionaly it has some other mods for better playstyle.
+The Pack: Includes almost all Create[Forge] addons, additionaly it has some other mods for an even better playstyle.
+
+The Goal: Automate every single block with Create. [almost done]
 
 ~~The Quests: For Beginners/People who suddenly dont know what to do next, which means they are very detailed and have great explanations on how to find/automate all mods/important blocks in the pack.~~
 
 
-
-The Idea: I created modpacks for myself with many create addons inside, I just almost always spend more time tinkering on the Pack then playing it. The problem I had was after a certain automation in the game I just did not know what to do next or thought my modpack is missing some mods to be "perfect".
+The Idea: I created modpacks for myself with many create addons inside, I just almost always spend more time tinkering on the Pack then playing it. The problem I had was, after a certain stage of automation in the game, I just did not know what to do next or sometimes thought my modpack is missing some mods to be "perfect".
 
 Time spent: For initial release [18h] / For pack updates [0h]
 <details>
@@ -137,6 +137,4 @@ Time spent: For initial release [18h] / For pack updates [0h]
 <a href="https://modrinth.com/mod/aq9qUUQG">Create Stuff & Additions</a> by (Furti_Two)<br>
 <a href="https://modrinth.com/mod/6e2SlzR4">Create: Garnished</a> by (DakotaPride)<br>
 </details>
-
-
 
