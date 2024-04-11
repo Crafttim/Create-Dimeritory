@@ -12,7 +12,6 @@ body:
         - label: I didn't added any mods
         - label: I get this issue consistently in single-player
         - label: I get this issue consistently in multi-player
-          required: true
         - label: I am crashing and can provide my crash report(s)
         - label: I am using the latest version of the modpack
     validations:
